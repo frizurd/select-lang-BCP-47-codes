@@ -2,6 +2,7 @@ HTML select options for BCP-47 languages.
 Ready for Cloud Speech-to-Text API. 
 Language tags follow the HTTP/1.1 specification, section 3.10.
 
+```html
 <select>
     <option value="en-US" selected>English</option>
     <option value="" disabled>---</option>
@@ -108,3 +109,4 @@ Language tags follow the HTTP/1.1 specification, section 3.10.
     <option value="vi-VN">Vietnamese</option>
     <option value="zu-ZA">Zulu</option>
 </select>
+```
