@@ -1,5 +1,5 @@
 HTML select options for BCP-47 languages.  
-Ready for Cloud Speech-to-Text API.  
+Ready for Google's Cloud Speech-to-Text API.  
 Language tags follow the HTTP/1.1 specification, section 3.10.  
 
 ```html
