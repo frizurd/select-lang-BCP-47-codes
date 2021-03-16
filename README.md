@@ -4,8 +4,6 @@ Language tags follow the HTTP/1.1 specification, section 3.10.
 
 ```html
 <select>
-    <option value="en-US" selected>English</option>
-    <option value="" disabled>---</option>
     <option value="af-ZA">Afrikaans</option>
     <option value="sq-AL">Albanian</option>
     <option value="am-ET">Amharic</option>
@@ -37,6 +35,7 @@ Language tags follow the HTTP/1.1 specification, section 3.10.
     <option value="cs-CZ">Czech</option>
     <option value="da-DK">Danish</option>
     <option value="nl-NL">Dutch</option>
+    <option value="en-US" selected>English</option>
     <option value="et-EE">Estonian</option>
     <option value="fi-FI">Finnish</option>
     <option value="fr-FR">French</option>
